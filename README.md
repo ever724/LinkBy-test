@@ -43,7 +43,7 @@ you can check the result on console.
 index.sql
 check the result on pgmyadmin app
 # 7
-
+Sorry but I have no enough knowledge of optimizing queries and indexes.
 
 # 8
 -how to start
@@ -52,8 +52,7 @@ npm start
 
 # 9
 index.html
-(I am not sure what I need to do.)
-
+style.css
 
 ```
 
